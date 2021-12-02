@@ -1,2 +1,3 @@
-# dio-javascript-contador
-JavaScript: elementos DOM e html
+# Contador com JavaScript
+
+Repositório aula JavaScript: elementos DOM e html
